@@ -1,0 +1,10 @@
+PRGNAM="nodejs"
+VERSION="latest"
+HOMEPAGE="https://nodejs.org/"
+DOWNLOAD="https://nodejs.org/dist/latest/node-vx.x.x.tar.xz"
+MD5SUM=""
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Derrek Landauer
+EMAIL="Derrekito@gmail.com"
